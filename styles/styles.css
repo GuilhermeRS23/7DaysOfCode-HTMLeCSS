@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@import url(header.css);
+
+:root {
+--fonte-principal: 'Inter', 'sans-serif';
+--cor-de-fundo: #ffffff;
+--cor-principal: #667085;
+--cor-botao: #8E2424;
+}
+
+body{
+    background: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    font-weight: 400;
+}
