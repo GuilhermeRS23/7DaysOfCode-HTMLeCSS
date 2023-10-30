@@ -1,0 +1,31 @@
+.metricas {
+    display: flex;
+    width: 80%;
+    align-content: center;
+    margin: 0 auto;
+    margin-bottom: 10%;
+    gap: 25px;
+    text-align: start;
+}
+
+.metricas__topicos {
+    width: 25%;
+}
+
+.metricas__titulo {
+    color: var(--cor-botao);
+    font-size: 3.75rem;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.metricas__subtitulo {
+    color: var(--cor-cinza);
+    font-size: 1.15rem;
+    font-weight: 500;
+}
+
+.metricas__texto {
+    color: var(--cor-principal);
+    font-size: 1rem;
+}

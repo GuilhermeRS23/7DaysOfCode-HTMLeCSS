@@ -3,12 +3,14 @@
 @import url(header.css);
 @import url(navbar.css);
 @import url(cabecalho.css);
+@import url(metricas.css);
 
 :root {
 --fonte-principal: 'Inter', 'sans-serif';
 --cor-de-fundo: #ffffff;
 --cor-principal: #667085;
 --cor-botao: #8E2424;
+--cor-cinza: #101828; 
 }
 
 body{
