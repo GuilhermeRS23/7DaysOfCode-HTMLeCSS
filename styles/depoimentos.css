@@ -1,0 +1,32 @@
+.depoimentos {
+    text-align: center;
+}
+
+.depoimentos__seccao {
+    background-color: var(--cor-fundo-vermelho);
+    width: 75%;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+.depoimentos__seccao_subtitulo {
+    color: var(--cor-botao);
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.depoimentos__seccao_titulo {
+    font-size: 2.25rem;
+    font-weight: 500;
+    color:#101828;
+}
+
+.depoimentos__seccao_titulo {
+    color: #101828;
+    font-weight: 500;
+}
+
+.depoimentos__seccao_texto {
+    color: var(--cor-principal);
+    font-size: 0.9rem;
+}

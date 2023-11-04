@@ -6,7 +6,7 @@
 .vagas__subtitulo {
     font-weight: 500;
     color: #8E2424;
-    background: #8E24240D;
+    background: var(--cor-fundo-vermelho);
     padding: 5px 10px;
     border-radius: 16px;
 }
