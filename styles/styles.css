@@ -6,6 +6,7 @@
 @import url(metricas.css);
 @import url(main.css);
 @import url(depoimentos.css);
+@import url(rodape.css);
 
 :root {
 --fonte-principal: 'Inter', 'sans-serif';
@@ -15,6 +16,7 @@
 --cor-cinza: #101828;
 --cor-cinza-claro: #EAECF0; 
 --cor-fundo-vermelho: #8E24240D;
+--cor-fundo-cinza:#F9FAFB;
 }
 
 body{
